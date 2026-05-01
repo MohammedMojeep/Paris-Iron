@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "paris-iron",
+=======
+  "name": "paris-recruitment",
+>>>>>>> 37dd174479c45708d70932b7fdcf8e43f4d379b9
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +13,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "vue": "^3.5.32"
+=======
+    "vue": "^3.5.32",
+    "vue-router": "^4.6.4"
+>>>>>>> 37dd174479c45708d70932b7fdcf8e43f4d379b9
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.6",
